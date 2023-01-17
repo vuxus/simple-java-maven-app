@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("I LOVE Jenkins and it is actually easy to use !!!");
+        System.out.println("I am trying to do something here !!!");
     }
 
     public String getMessage() {
